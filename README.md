@@ -21,7 +21,19 @@ With this app i created a new React-based Google Books Search app. This assignme
 Github repo
 https://github.com/jguerra21/google-books-search
 
+Heroku Link
+Will deploy shortly but not required
+
 ## Screenshots
+Home screen
+![](/images/home.jpeg)
+
+Book Search Screen
+![](/images/booksearch.jpeg)
+
+View Book Button Link
+
+![](/images/viewbook.jpeg)
 
 ### Instructions
 
