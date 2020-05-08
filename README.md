@@ -1,6 +1,15 @@
 # Google Books Search
 
-### Overview
+# Table of Contents
+* [User Story](#User-Story)   
+* [Links](#Links)  
+* [Screenshots](#Screenshots)  
+* [Instructions](#Instructions) 
+* [Minimum Requirements](#Minimum-Requirements) 
+
+
+
+### User Story
 
 With this app i created a new React-based Google Books Search app. This assignment requires you to create React components, work with helper/util functions, and utilize React lifecycle methods to query and display books based on user searches. You'll also use Node, Express and MongoDB so that users can save books to review or purchase later.
 
@@ -8,6 +17,8 @@ With this app i created a new React-based Google Books Search app. This assignme
 
 Github repo
 https://github.com/jguerra21/google-books-search
+
+# Screenshots
 
 ### Instructions
 
