@@ -1,19 +1,13 @@
-// need useState to maintain state in functional component
 import React, { useState } from "react";
-// used for saving book modal
 import { Modal, Button } from "react-bootstrap";
 
-// Using React Hooks here to maintain state in a functional component
-// Destructuring the type, className, children and onClick props, applying them to the button element
 function SaveBtn({ type = "default", className, children, onClick }) {
   const [show, setShow] = useState(false);
 
-  // handles closing of modal
   const handleClose = () => setShow(false);
-  // handles showing of modal
+ 
   const handleShow = () => setShow(true);
 
-  // saves book to db and shows modal
   const click = () => {
     handleShow();
     onClick();
