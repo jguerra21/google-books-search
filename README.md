@@ -28,10 +28,7 @@ Will deploy shortly but not required
 Home screen
 ![](/images/home.jpeg)
 
-Book Search Screen
-![](/images/booksearch.jpeg)
-
-View Book Button Link
+View Books Button Screen
 
 ![](/images/viewbook.jpeg)
 
