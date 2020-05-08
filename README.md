@@ -7,6 +7,8 @@
 * [Instructions](#Instructions) 
 * [Minimum Requirements](#Minimum-Requirements)
 * [Libraries and Framework Used](#Libraries-Framework-Used) 
+* [Database Used](#Database-Used)
+* [Npm Packages Used](#Npm-Packages-Used)
 
 
 
@@ -85,3 +87,15 @@ Attempt to complete homework assignment as described in instructions. If unable 
 
 - - -
 ## Libraries-Framework Used:
+1. React
+2. Bootstrap
+3. Express
+4. Mongoose
+5. React- Bootstrap
+6. React- Router
+
+## Database Used:
+1. MongoDB
+
+## Npm Packages Used:
+1. Axios
