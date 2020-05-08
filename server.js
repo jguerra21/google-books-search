@@ -5,7 +5,7 @@ const path = require("path");
 const app = express();
 const PORT = process.env.PORT || 3001;
 
-// Define middleware here
+// Define middleware
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 // Serve up static assets (usually on heroku)
@@ -13,11 +13,10 @@ if (process.env.NODE_ENV === "production") {
   app.use(express.static("./public"));
 }
 
-// Define API routes here
+// Define API routes
 app.use("/api", apiRoutes);
 
-// Send every other request to the React app
-// Define any API routes before this runs
+// Define any API 
 app.get("*", (req, res) => {
   res.sendFile(path.join(__dirname, "./public/index.html"));
 });

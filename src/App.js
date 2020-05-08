@@ -14,11 +14,11 @@ class App extends Component {
           <Nav />
           <Jumbotron />
           <Switch>
-            {/* renders the Search page when "/" route is hit */}
+            {/* renders the Search page when "/" route is passed */}
             <Route exact path="/" component={Search} />
-            {/* renders the Search page when "/search" route is hit */}
+            {/* renders the Search page when "/search" route is passed */}
             <Route exact path="/search" component={Search} />
-            {/* renders the Saved page when "/saved" route is hit */}
+            {/* renders the Saved page when "/saved" route is passed */}
             <Route exact path="/saved" component={Saved} />
           </Switch>
         </div>
