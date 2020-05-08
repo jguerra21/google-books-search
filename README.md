@@ -22,6 +22,15 @@ Github repo
 https://github.com/jguerra21/google-books-search
 
 ## Screenshots
+Home screen
+![](/images/home.jpeg)
+
+Book Search Screen
+![](/images/booksearch.jpeg)
+
+View Book Button Link
+
+![](/images/viewbook.jpeg)
 
 ### Instructions
 
